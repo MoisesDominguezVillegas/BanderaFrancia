@@ -1,0 +1,37 @@
+body{
+    background-color: #333333;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+.bandera{
+    width: 300px;
+    height: 200px;
+    margin: 0px auto;
+}
+.azul{
+    background-color: blue;
+    width: 33.3%;
+    height: 100%;
+    float: left;
+}
+
+.blanco{
+    background-color: white;
+    width: 33.3%;
+    height: 100%;
+    float: left;
+}
+
+.rojo{
+    background-color: red;
+    width: 33.3%;
+    height: 100%;
+    float: left;
+}
+
+
+
